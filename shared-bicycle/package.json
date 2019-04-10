@@ -1,0 +1,43 @@
+{
+  "name": "shared-bicycle",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.13.6",
+    "axios": "^0.18.0",
+    "babel-plugin-import": "^1.11.0",
+    "customize-cra": "^0.2.12",
+    "draft-js": "^0.10.5",
+    "draftjs-to-html": "^0.8.4",
+    "echarts": "^4.1.0",
+    "echarts-for-react": "^2.0.15-beta.0",
+    "jsonp": "^0.2.1",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "moment": "^2.24.0",
+    "react": "^16.8.3",
+    "react-app-rewired": "^2.1.0",
+    "react-dom": "^16.8.3",
+    "react-draft-wysiwyg": "^1.13.2",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
